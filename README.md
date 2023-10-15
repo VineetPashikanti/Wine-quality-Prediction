@@ -37,4 +37,4 @@ Applying different models
 Choosing right model
 Hurray you just completed the task !
 ![ml model 4](https://github.com/VineetPashikanti/Wine-quality-Prediction/assets/147372491/e2314c97-5097-4eb5-973c-6c0f977a89a0)
-
+CHEERS!
