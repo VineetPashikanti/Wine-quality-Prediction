@@ -1,4 +1,5 @@
 Prediction of Wine Quality
+
 ![ml model 3](https://github.com/VineetPashikanti/Wine-quality-Prediction/assets/147372491/d9dbe4e3-4d05-40d8-98f7-bb8c7cb13c86)
 For this project, I used Kaggle’s Red Wine Quality dataset to build various classification models to predict whether a particular red wine is “good quality” or not.
 Each wine in this dataset is given a “quality” score between 0 and 10.
